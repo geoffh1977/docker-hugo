@@ -1,0 +1,14 @@
+---
+# Project Variables
+dockerUser: geoffh1977
+dockerUserEmail: geoffh1977@gmail.com
+license: gnu-gpl-v3.0
+
+# Source Build Variables
+buildImageName: alpine
+buildImageVersion: latest
+
+# Final Image Variables
+finalImageName: hugo
+finalImageVersion: 0.55.4
+appName: Hugo Static Site Generator
